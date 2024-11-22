@@ -27,7 +27,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html"><span>K</span>ozdrach</a>
+	      <a class="navbar-brand" href="index.php"><span>K</span>ozdrach</a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -645,10 +645,10 @@
         <div class="row d-flex">
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="building_client_success.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+              <a href="building_client_success.php" class="block-20" style="background-image: url('images/image_1.jpg');">
               </a>
               <div class="text mt-3 float-right d-block">
-                <h3 class="heading"><a href="building_client_success.html">Building Client Success 
+                <h3 class="heading"><a href="building_client_success.php">Building Client Success 
 				</a></h3>
                 <div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
@@ -663,10 +663,10 @@
           </div>
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="mastering_order_coordination.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+              <a href="mastering_order_coordination.php" class="block-20" style="background-image: url('images/image_2.jpg');">
               </a>
               <div class="text mt-3 float-right d-block">
-                <h3 class="heading"><a href="mastering_order_coordination.html">Mastering Order Coordination 
+                <h3 class="heading"><a href="mastering_order_coordination.php">Mastering Order Coordination 
 				</a></h3>
                 <div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
@@ -681,10 +681,10 @@
           </div>
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a href="driving_revenue_growth.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+              <a href="driving_revenue_growth.php" class="block-20" style="background-image: url('images/image_3.jpg');">
               </a>
               <div class="text mt-3 float-right d-block">
-                <h3 class="heading"><a href="driving_revenue_growth.html">Driving Revenue Growth 
+                <h3 class="heading"><a href="driving_revenue_growth.php">Driving Revenue Growth 
 				</a></h3>
                 <div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
